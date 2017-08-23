@@ -1,0 +1,20 @@
+Integrante:
+- Roberto Felipe Fuentes Zenteno - 201173037-2
+
+Supuestos:
+- La versión usada para realizar el laboratorio fue Python 3.5.1-0, usando  Anaconda 
+ 4.0.5.
+- Para algunas preguntas, se analizaron cosas que no estaban explicitamente dichas 
+ en el enunciado del laboratorio, con el fin de destacar ciertas cosas importantes.
+- Para algunos graficos, se usan escalas logarítmicas para poder apreciar bien
+ el resultado de ciertas graficas.
+- Para los gráficos de la pregunta 3, se cambiaron los ejes para poder apreciar
+ mejor el comportamiento error v/s tiempo (es decir, se graficó en el eje x el tiempo,
+ y en el eje y el error).
+
+Explicación:
+- A travez de lo investigado por nosotros mas las indicaciones del laboratorio, se 
+ implementaran algoritmos de integracion numérica para la obtención de resultados de 
+ ciertas integrales. Asi, veremos como se comportan ciertas integrales con distintos
+ metodos, para asi tomar la mejor decision para poder abordar un problema de la vida
+ real, dependiendo de lo que se busque: menor error o menor tiempo.

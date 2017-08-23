@@ -1,0 +1,15 @@
+Integrante:
+- Roberto Felipe Fuentes Zenteno - 201173037-2
+
+Supuestos:
+- La versión usada para realizar el laboratorio fue Python 3.5.1-0, usando  Anaconda 
+ 4.0.5.
+- Para algunas preguntas, se analizaron cosas que no estaban explícitamente dichas 
+ en el enunciado del laboratorio, con el fin de destacar ciertas cosas importantes.
+
+Explicación:
+- A travez de lo investigado por nosotros mas las indicaciones del laboratorio, se 
+ analizara un problema particular de ecuaciones diferenciales ordinarias (N-body problem),
+ y se observara el comportamiento de las partículas que interactúan entre si. Para esto,
+ se observaran los comportamientos de las partículas con distintos métodos: Euler, rk2 y 
+ rk4.  

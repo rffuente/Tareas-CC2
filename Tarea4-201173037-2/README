@@ -1,0 +1,18 @@
+Integrante:
+- Roberto Felipe Fuentes Zenteno - 201173037-2
+
+Supuestos:
+- La versión usada para realizar el laboratorio fue Python 3.5.1-0, usando  Anaconda 
+ 4.0.5.
+- Para algunas preguntas, se analizaron cosas que no estaban explícitamente dichas 
+ en el enunciado del laboratorio, con el fin de destacar ciertas cosas importantes.
+- Para algunos gráficos, se usan escalas logarítmicas para poder apreciar bien
+ el resultado de ciertas gráficas.
+
+Explicación:
+- A travez de lo investigado por nosotros mas las indicaciones del laboratorio, se 
+ implementaran algoritmos para el calculo de ecuaciones diferenciales ordinarias,
+ para resolver problemas de valor de frontera, las cuales son el método del disparo
+ y el método de diferencias finitas, para resolver un problema referente a la construccion
+ de anillos para los submarinos, para lo cual deberemos implementar un metodo para 
+ resolver un sistema de ecuaciones diferenciales ordinarias.

@@ -1,0 +1,17 @@
+Integrante:
+- Roberto Felipe Fuentes Zenteno - 201173037-2
+
+Supuestos:
+- La versión usada para realizar el laboratorio fue Python 3.5.1-0, usando  Anaconda 
+ 4.0.5.
+- Para algunas preguntas, se analizaron cosas que no estaban explícitamente dichas 
+ en el enunciado del laboratorio, con el fin de destacar ciertas cosas importantes.
+- Para algunos gráficos, se usan escalas logarítmicas para poder apreciar bien
+ el resultado de ciertas gráficas.
+
+Explicación:
+- A través de lo investigado sobre la materia de las ondas mas los notebooks del 
+ profesor, se realizaron diversas pruebas para ver el comportamiento de una onda
+ bajo ciertas condiciones de frontera. Además, se analizó el error en contraste
+ a una función real, y se vió el error que genera nuestro método, para determinar
+ si lo implementado se acerca a lo esperado.
